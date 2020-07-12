@@ -23,9 +23,9 @@ Without the use of server, the questions from the json file wont load. So, it is
 
 <kbd>![](images/2.PNG)</kbd>
 
-<kbd>![](images/3.png)</kbd>
+<kbd>![](images/3.PNG)</kbd>
 
-<kbd>![](images/4.png)</kbd>
+<kbd>![](images/4.PNG)</kbd>
 
 <kbd>![](images/5.PNG)</kbd>
 
